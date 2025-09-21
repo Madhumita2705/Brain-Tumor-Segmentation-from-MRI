@@ -1,4 +1,5 @@
 Brain Tumor Segmentation – BraTS Dataset
+
 **Overview**
 
 This repository explores brain tumor segmentation from MRI scans using the BraTS dataset. The work is divided into phases, starting with baseline U-Net segmentation, then moving toward custom loss functions and advanced architectures for improved accuracy.
